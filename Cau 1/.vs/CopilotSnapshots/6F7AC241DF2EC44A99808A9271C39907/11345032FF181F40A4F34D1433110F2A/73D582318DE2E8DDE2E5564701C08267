@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Cau_1
+{
+    public class HangHoa
+    {
+        public int MaHang { get; set; }
+        public string TenHang { get; set; }
+        public string LoaiHang { get; set; }
+        public string DonVi { get; set; }
+        public decimal GiaBan { get; set; }
+        public int SoLuongTon { get; set; }
+        public DateTime NgayNhap { get; set; }
+        public bool ConKinhDoanh { get; set; }
+    }
+
+    // Minimal in-memory context so the WinForms app can run without EF scaffolding.
+    public class TiemTapHoaContext
+    {
+        public List<HangHoa> HangHoas { get; }
+
+        public TiemTapHoaContext()
+        {
+            HangHoas = new List<HangHoa>
+            {
+                new HangHoa { MaHang = 1, TenHang = "Nước ngọt", LoaiHang = "Đồ uống", DonVi = "Chai", GiaBan = 5000m, SoLuongTon = 100, NgayNhap = DateTime.Now.AddDays(-10), ConKinhDoanh = true },
+                new HangHoa { MaHang = 2, TenHang = "Gạo", LoaiHang = "Thực phẩm khô", DonVi = "Kg", GiaBan = 20000m, SoLuongTon = 50, NgayNhap = DateTime.Now.AddDays(-30), ConKinhDoanh = true },
+                new HangHoa { MaHang = 3, TenHang = "Muối", LoaiHang = "Gia vị", DonVi = "Gói", GiaBan = 3000m, SoLuongTon = 200, NgayNhap = DateTime.Now.AddDays(-5), ConKinhDoanh = true },
+                new HangHoa { MaHang = 4, TenHang = "Xà phòng", LoaiHang = "Đồ gia dụng", DonVi = "Cái", GiaBan = 15000m, SoLuongTon = 30, NgayNhap = DateTime.Now.AddDays(-1), ConKinhDoanh = false }
+            };
+        }
+
+        internal void SaveChanges()
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

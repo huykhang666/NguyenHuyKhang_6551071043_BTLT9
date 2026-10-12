@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiTap_C#_TrucQuan\\Chuong 9\\Cau 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7096FCC-508B-4624-895C-E2A51B6D50FD}|Cau 1\\Cau 1.csproj|d:\\baitap_c#_trucquan\\chuong 9\\cau 1\\cau 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7096FCC-508B-4624-895C-E2A51B6D50FD}|Cau 1\\Cau 1.csproj|solutionrelative:cau 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7096FCC-508B-4624-895C-E2A51B6D50FD}|Cau 1\\Cau 1.csproj|d:\\baitap_c#_trucquan\\chuong 9\\cau 1\\cau 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7096FCC-508B-4624-895C-E2A51B6D50FD}|Cau 1\\Cau 1.csproj|solutionrelative:cau 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7096FCC-508B-4624-895C-E2A51B6D50FD}|Cau 1\\Cau 1.csproj|d:\\baitap_c#_trucquan\\chuong 9\\cau 1\\cau 1\\tiemtaphoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7096FCC-508B-4624-895C-E2A51B6D50FD}|Cau 1\\Cau 1.csproj|solutionrelative:cau 1\\tiemtaphoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TiemTapHoaContext.cs",
+              "DocumentMoniker": "D:\\BaiTap_C#_TrucQuan\\Chuong 9\\Cau 1\\Cau 1\\TiemTapHoaContext.cs",
+              "RelativeDocumentMoniker": "Cau 1\\TiemTapHoaContext.cs",
+              "ToolTip": "D:\\BaiTap_C#_TrucQuan\\Chuong 9\\Cau 1\\Cau 1\\TiemTapHoaContext.cs",
+              "RelativeToolTip": "Cau 1\\TiemTapHoaContext.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwv0gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:58:05.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BaiTap_C#_TrucQuan\\Chuong 9\\Cau 1\\Cau 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Cau 1\\Form1.cs",
+              "ToolTip": "D:\\BaiTap_C#_TrucQuan\\Chuong 9\\Cau 1\\Cau 1\\Form1.cs",
+              "RelativeToolTip": "Cau 1\\Form1.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAawJYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:08:22.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BaiTap_C#_TrucQuan\\Chuong 9\\Cau 1\\Cau 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Cau 1\\Form1.cs",
+              "ToolTip": "D:\\BaiTap_C#_TrucQuan\\Chuong 9\\Cau 1\\Cau 1\\Form1.cs [Design]",
+              "RelativeToolTip": "Cau 1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T02:55:46.058Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
